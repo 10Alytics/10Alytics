@@ -3,7 +3,7 @@
 
 10Alytics is your prefered learning destination to acquire industry relevant tech skills that will propel your tech career. 
 
-   _ At 10Alytics, we help you become a global tech talent through our delivery of exceptional training programmes designed and delivered by industry experts. _
+      At 10Alytics, we help you become a global tech talent through our delivery of exceptional training programmes designed and delivered by industry experts.
     
 Our aim is to develop and grow the African tech capacity by lowering the barrier to entry and helping new entrants and professionals from different industries gain in-demand technology skills.
 

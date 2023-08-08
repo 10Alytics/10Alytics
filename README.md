@@ -2,7 +2,7 @@
 # Welcome to 10Alytics
 
 
-![Logo](https://github.com/10Alytics/10Alytics/blob/main/10alytics%20image.jpg?raw=true)
+![Logo]([https://github.com/10Alytics/10Alytics/blob/main/10alytics%20image.jpg?raw=true](https://github.com/10Alytics/10Alytics/blob/main/10alytics-n.jpeg?raw=true)
 
 ## 10Alytics is your prefered learning destination to acquire industry relevant tech skills that will propel your tech career. 
 
